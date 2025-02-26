@@ -9,6 +9,9 @@
 **Domain**: PYTHON PROGRAMMING 
 
 **Duration**: FEB 25th 2025 to MARCH 25th, 2025
+
+**Mentor Name**:  Neela Santhosh
+
 ---
 
 An NLP based Chatbot over a simple fully connected neural network architecture using Tensorflow and tflearn. Trained over a custom dataset specified in the JSON file.
