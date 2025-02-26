@@ -38,7 +38,3 @@ In Python versions above 3.6 PyAudio is not a supported library and installing P
   
   *  Run **`textChatbot.py`** for text based chatbot with GUI incorporated
   *  Run **`voiceBot.py`** for voice recognition based chatbot  
-
-## GUI Snippet
-
-<img src=img/gui.png>
